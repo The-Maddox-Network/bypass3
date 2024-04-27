@@ -3,14 +3,5 @@
     "ssl": false,
     "prefix": "/web/",
     "localAddresses": [],
-    "allowedHostnames": ["example.com","tmnlabs.com",
-    "slither.io",
-    "cdn.gamesnacks.com","embed.gamesnacks.com",
-    "paper-io.com","p2us5.paper-io.com","fonts.googleapis.com","fonts.gstatic.com","www.gstatic.com",
-    "brantsteele.net","brantsteele.com","ajax.googleapis.com","i.imgur.com",
-    "neal.fun",
-    "thisissand.com",
-    "1v1.lol","imasdk.googleapis.com", "cdn.cookielaw.org", "server.cpmstar.com", "www.googletagmanager.com", "ssl.cdne.cpmstar.com", "playtika.com", "justplay-cdn.playtika.com", "onevone.psf.playtika.com", "onevone-cdn.psf.playtika.com", "player-auth.services.api.unity.com",  
-    "gameoftheyear.withgoogle.com","texttospeech.googleapis.com",
-    "frvr.com","dragrace.frvr.com","basketball.frvr.com","soccer.frvr.com","wallyjump.frvr.com","golfgardens.frvr.com","slash.frvr.com","hex.frvr.com","bucket.frvr.com","assets.frvr.com","cdn.frvr.com","cdn2.frvr.com", "coeus.frvr.com", "crucible.frvr.com", "fran-cdn.frvr.com", "cookiepro.com", "cookie-cdn.cookiepro.com","hermes.frvr.com"]
+    "allowedHostnames": ["example.com","example.org"]
 }
